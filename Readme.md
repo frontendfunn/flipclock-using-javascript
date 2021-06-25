@@ -1,6 +1,8 @@
 ## Frontendfunn - Flipclock using javascript
 
-## [🚀 Live Preview]()
+## [🚀 Live Preview](https://frontendfunn.github.io/flipclock-using-javascript/)
+
+![preview](./repoPreviewImages/preview.gif)
 
 ---
 
